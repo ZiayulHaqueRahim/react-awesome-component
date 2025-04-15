@@ -1,0 +1,104 @@
+ [
+      {
+        "title": "Free Plan",
+        "price": "$0",
+        "billingCycle": "per month",
+        "description": "Great for individuals just getting started",
+        "features": ["1 Project", "500 MB Storage", "Community Support"],
+        "button": { "text": "Sign Up", "link": "/signup/free" },
+        "isMostPopular": false,
+        "badgeText": ""
+      },
+      {
+        "title": "Starter",
+        "price": "$9",
+        "billingCycle": "per month",
+        "description": "Perfect for hobby projects",
+        "features": ["3 Projects", "2 GB Storage", "Email Support"],
+        "button": { "text": "Choose Plan", "link": "/signup/starter" },
+        "isMostPopular": false,
+        "badgeText": ""
+      },
+      {
+        "title": "Pro",
+        "price": "$29",
+        "billingCycle": "per month",
+        "description": "Ideal for freelancers and startups",
+        "features": ["10 Projects", "5 GB Storage", "Priority Support", "Team Access"],
+        "button": { "text": "Get Started", "link": "/signup/pro" },
+        "isMostPopular": true,
+        "badgeText": "Most Popular"
+      },
+      {
+        "title": "Business",
+        "price": "$59",
+        "billingCycle": "per month",
+        "description": "For growing businesses",
+        "features": ["Unlimited Projects", "50 GB Storage", "Phone Support", "Analytics Dashboard"],
+        "button": { "text": "Upgrade Now", "link": "/signup/business" },
+        "isMostPopular": false,
+        "badgeText": ""
+      },
+      {
+        "title": "Enterprise",
+        "price": "Contact Us",
+        "billingCycle": "custom",
+        "description": "Custom solutions for large organizations",
+        "features": ["Unlimited Projects", "Unlimited Storage", "Dedicated Support", "Custom SLAs"],
+        "button": { "text": "Contact Sales", "link": "/contact" },
+        "isMostPopular": false,
+        "badgeText": ""
+      },
+      {
+        "title": "Developer",
+        "price": "$19",
+        "billingCycle": "per month",
+        "description": "For developers building side projects",
+        "features": ["5 Projects", "10 GB Storage", "API Access"],
+        "button": { "text": "Choose Plan", "link": "/signup/developer" },
+        "isMostPopular": false,
+        "badgeText": ""
+      },
+      {
+        "title": "Growth",
+        "price": "$39",
+        "billingCycle": "per month",
+        "description": "For teams expanding fast",
+        "features": ["15 Projects", "20 GB Storage", "Team Management", "Reporting Tools"],
+        "button": { "text": "Try Growth", "link": "/signup/growth" },
+        "isMostPopular": false,
+        "badgeText": ""
+      },
+      {
+        "title": "Scale",
+        "price": "$79",
+        "billingCycle": "per month",
+        "description": "For scaling startups",
+        "features": ["30 Projects", "100 GB Storage", "Advanced Analytics", "Priority Support"],
+        "button": { "text": "Scale Up", "link": "/signup/scale" },
+        "isMostPopular": false,
+        "badgeText": ""
+      },
+      {
+        "title": "Agency",
+        "price": "$99",
+        "billingCycle": "per month",
+        "description": "For creative and digital agencies",
+        "features": ["Unlimited Clients", "Client Billing", "White Labeling"],
+        "button": { "text": "Join Now", "link": "/signup/agency" },
+        "isMostPopular": false,
+        "badgeText": ""
+      },
+      {
+        "title": "Lifetime",
+        "price": "$499",
+        "billingCycle": "one-time",
+        "description": "One-time payment for lifetime access",
+        "features": ["All Pro Features", "Lifetime Updates", "Early Access to New Features"],
+        "button": { "text": "Buy Now", "link": "/signup/lifetime" },
+        "isMostPopular": false,
+        "badgeText": "Best Value"
+      }
+    ]
+
+  
