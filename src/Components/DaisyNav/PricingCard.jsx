@@ -10,6 +10,9 @@ const PricingCard = ({pricing}) => {
             <p className='text-5xl text-white'>price:{pricing.price}</p>
             <p className='text-5xl text-white'>info:{pricing.description}</p>
             <p className='text-5xl text-white'>Billing cycle:{pricing.billingCycle}</p>
+            <button className='btn btn-wide  py-2 text-center '>
+                Subscribe Now
+            </button>
         </div>
     );
 };
